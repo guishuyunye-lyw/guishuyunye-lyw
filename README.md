@@ -1,4 +1,4 @@
-### 
+### My life goal
 
 I am interested in human learning, ranging from how to improve individual learning efficiency and quality, to the interaction between individual knowledge and the third world (Popper), and how to enhance educational equity. My experience over the past decade has been dedicated to this purpose. In a sense, the entire society is my university, and each experience helps me construct the knowledge framework needed to solve these problems.
 
@@ -6,12 +6,9 @@ At present, my research focus is on meaningful learning and spaced learning, as 
 
 I am attempting to use EEG to detect moments of insight and capture the neural representation changes brought about by repetitive learning. The reason for using EEG is that it is more cost-effective compared to MRI and MEG, and it has the potential for portability and consumer applications. I enjoy designing new experiments, drawing inspiration from the contradictions between theory and real life. Designing experiments with high ecological validity and meaningful growth experiences for participants is one of my great hobbies.
 
-- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over five years of **Site Reliability Engineering (SRE)** and **DevOps** experience at various companies like [DUO](https://duo.nl/) and [KPN](https://www.kpn.com/).
-- 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs).
-- ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
-- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/key.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
 
-### Work Experience
+
+### Learning Experience
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
