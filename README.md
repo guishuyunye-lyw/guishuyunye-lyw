@@ -1,10 +1,10 @@
 ### My life goal
 
-I am interested in human learning, ranging from how to improve individual learning efficiency and quality, to the interaction between individual knowledge and the third world (Popper), and how to enhance educational equity. My experience over the past decade has been dedicated to this purpose. In a sense, the entire society is my university, and each experience helps me construct the knowledge framework needed to solve these problems.
+I am passionate about the study of human learning, which encompasses improving individual learning efficiency and quality, examining the interaction between personal knowledge and the third world (as described by Popper), and working towards enhancing educational equity. Over the past decade, my experiences have been dedicated to this purpose. In a way, society as a whole serves as my university, with each experience contributing to the construction of the knowledge framework needed to address these issues.
 
-At present, my research focus is on meaningful learning and spaced learning, as optimizing learning intervals for increased creativity and understanding is a relatively easy-to-implement learning strategy. In the AI era, people need to engage in 'deep learning' rather than simply mastering basic memorization and procedural knowledge.
+Currently, my research is focused on meaningful learning and spaced learning. Optimizing learning intervals for improved creativity and comprehension is a relatively straightforward strategy to implement. In the era of AI, it is crucial for individuals to engage in 'deep learning' rather than simply mastering basic memorization and procedural knowledge.
 
-I am attempting to use EEG to detect moments of insight and capture the neural representation changes brought about by repetitive learning. The reason for using EEG is that it is more cost-effective compared to MRI and MEG, and it has the potential for portability and consumer applications. I enjoy designing new experiments, drawing inspiration from the contradictions between theory and real life. Designing experiments with high ecological validity and meaningful growth experiences for participants is one of my great hobbies.
+I am working to use EEG to identify moments of insight and to capture the neural representation changes resulting from repetitive learning. The rationale for using EEG lies in its cost-effectiveness compared to MRI and MEG, as well as its potential for portability and consumer applications. I take pleasure in designing new experiments, drawing inspiration from the discrepancies between theory and real-life situations. Creating experiments with high ecological validity and providing meaningful growth experiences for participants is one of my greatest hobbies.
 
 
 
