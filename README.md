@@ -13,3 +13,14 @@ I am working to use EEG to identify moments of insight and to capture the neural
 ![GitHub Logo](https://github.com/guishuyunye-lyw/CV/blob/main/%E7%AE%80%E5%8E%86%E6%97%B6%E5%BA%8F%E5%9B%BECV-%E7%AC%AC%202%20%E9%A1%B5.drawio.png)
 
 
+#### spaced learning research
+
+
+#### dyslexia research
+
+
+#### A website dedicated to promoting collaborative learning
+
+
+### group
+
