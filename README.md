@@ -30,10 +30,3 @@ I believe research is more fun when we share not only ideas but also passions! L
 
 ---
 
-### Learning Experience
-
-![GitHub Logo](https://github.com/guishuyunye-lyw/CV/blob/main/jianlishixutu.png)
-
-#### spaced learning and meaningful leaning 
-#### cognitive map and semantic schema
-#### how to organize collaboration without a boss
